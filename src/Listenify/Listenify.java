@@ -6,7 +6,7 @@ public class Listenify{
     public static List<Album> albums = new ArrayList<>();
 
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
 
         Album album = new Album("Old Hindi Songs","Arijit Singh");
 
